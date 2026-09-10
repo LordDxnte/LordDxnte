@@ -1,25 +1,24 @@
-# Hi, I'm Umais 👋
+# Umais Jafry
+**Python & Automation Developer | BS Mathematics with AI @ Institute of Space Technology**
 
-**Python & Automation Developer | BS Mathematics with AI Student @ IST**
+Building automated workflows, AI-integrated tools, and interactive 2D applications. Passionate about combining mathematical logic with intelligent systems.
 
-I build automated workflows, AI-integrated tools, and interactive applications. I am currently pursuing my degree in Islamabad, combining my interests in mathematics, artificial intelligence, and optimized software development.
+---
 
-### 🛠️ Tech Stack
+### 🛠️ Stack
 * **Languages:** Python
 * **Frameworks & Libraries:** FastAPI, Pygame, CrewAI
-* **Tools & Infrastructure:** Git, GitHub, Groq LPU Inference
+* **Tools & Infrastructure:** Git, GitHub, Groq LPU Inference, VS Code
 * **Environments:** Linux Mint, Windows
 
-### 🚀 Featured Projects
+### 🚀 Featured Work
+* **[Eclipse of the Order](link-here)** — A 2D dark fantasy action roguelite game built from scratch, featuring custom combat mechanics, state machines, and sprite architecture using Pygame.
+* **[Dante's Item Forge](link-here)** — A gaming item optimization engine powered by Python and Groq LPU inference for ultra-fast AI processing and stat calculations.
+* **[Calculus Hub](link-here)** — A streamlined web application deployed to organize, manage, and share complex lecture schedules, study plans, and academic materials.
 
-* **[Eclipse of the Order](link-here)**
-  A 2D dark fantasy action roguelite game built entirely from scratch. Features custom game mechanics, combat systems, and sprite designs developed with Pygame.
-
-* **[Dante's Item Forge](link-here)**
-  A gaming item optimization tool engineered using Python and Groq LPU inference to achieve rapid AI processing and data handling.
-
-* **[Calculus Hub](link-here)**
-  A streamlined web application deployed to efficiently manage, organize, and share complex lecture schedules, study materials, and daily plans.
+### 🎯 Current Focus
+* Deepening core mathematical concepts and artificial intelligence systems at IST.
+* Architecting efficient automation scripts and scalable backend tools with Python and FastAPI.
 
 
 <!--
