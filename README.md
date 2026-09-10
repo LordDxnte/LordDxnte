@@ -1,9 +1,9 @@
-<div align="center">
+<img width="1106" height="963" alt="image" src="https://github.com/user-attachments/assets/94540a04-4daa-4d31-b5d5-5c43167540db" /><div align="center">
   <h1>Umais Jafry</h1>
   <p>Python & Automation Developer · Islamabad</p>
   <br>
   <p>Architecting intelligent workflows, scalable backends, and 2D mechanics.</p>
-  <p><a href="[Your LinkedIn URL]">LinkedIn</a> · 📍 Islamabad</p>
+  <p><a href="[(https://www.linkedin.com/in/umais-jafry-ba81b33a0/)]">LinkedIn</a> · 📍 Islamabad</p>
 </div>
 
 <br>
