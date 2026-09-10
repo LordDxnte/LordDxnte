@@ -2,7 +2,7 @@
   <h1>Umais Jafry</h1>
   <p>Python & Automation Developer · Islamabad</p>
   <br>
-  <p>Building automated workflows, AI-integrated tools, and interactive 2D applications.</p>
+  <p>Architecting intelligent workflows, scalable backends, and 2D mechanics.</p>
   <p><a href="[Your LinkedIn URL]">LinkedIn</a> · 📍 Islamabad</p>
 </div>
 
@@ -11,32 +11,37 @@
 ### Now
 `Python Developer · BS Mathematics with AI @ Institute of Space Technology`
 
-### Stack
+### The Arsenal
+
+I engineer high-performance tools and immersive experiences by merging mathematical logic with intelligent automation. Operating out of a custom-built Xeon X99 rig on Linux Mint, my development workflow centers around building robust Python architectures. I specialize in leveraging Groq LPU inference for ultra-fast AI processing, orchestrating multi-agent systems with CrewAI, and deploying scalable backends via FastAPI. 
+
+When I am not building AI optimization engines, I am designing complex state machines and combat systems from scratch in Pygame. Whether optimizing codebase efficiency or calling the strats as an In-Game Leader in competitive brackets, I thrive on pushing systems to their absolute peak.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pygame-F4DF42?style=for-the-badge&logo=python&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Mint-87A96B?style=for-the-badge&logo=linux-mint&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-2D2D2D?style=for-the-badge&logo=python&logoColor=B00020" />
+  <img src="https://img.shields.io/badge/FastAPI-2D2D2D?style=for-the-badge&logo=fastapi&logoColor=B00020" />
+  <img src="https://img.shields.io/badge/Pygame-B00020?style=for-the-badge&logo=python&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/CrewAI-2D2D2D?style=for-the-badge&logo=robot&logoColor=B00020" />
+  <img src="https://img.shields.io/badge/Groq_LPU-B00020?style=for-the-badge&logo=processor&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/Linux_Mint-2D2D2D?style=for-the-badge&logo=linux-mint&logoColor=B00020" />
+  <img src="https://img.shields.io/badge/VS_Code-2D2D2D?style=for-the-badge&logo=visual-studio-code&logoColor=B00020" />
+  <img src="https://img.shields.io/badge/Git-B00020?style=for-the-badge&logo=git&logoColor=ffffff" />
 </p>
 
 ### Featured Work
 
 * **[Eclipse of the Order](link-here)** — 2D dark fantasy action roguelite game built from scratch featuring custom combat mechanics, state machines, and sprite architecture.
-* **[Dante's Item Forge](link-here)** — gaming item optimization engine powered by Python and Groq LPU inference for ultra-fast AI processing and stat calculations.
-* **[Calculus Hub](link-here)** — streamlined web application deployed to organize, manage, and share complex lecture schedules, study plans, and academic materials.
+* **[Dante's Item Forge](link-here)** — Gaming item optimization engine powered by Python and Groq LPU inference for ultra-fast AI processing and stat calculations.
+* **[Calculus Hub](link-here)** — Streamlined web application deployed to organize, manage, and share complex lecture schedules, study plans, and academic materials.
 
+### Beyond the Code
+⚔️ In-Game Leader for SRT (Valorant) · 🏋️ Strength Training · 🏍️ Gearhead & Custom Hardware Builder
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LordDxnte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LordDxnte&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umaisjafry&bg_color=1A1A1A&color=B00020&line=B00020&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-
-
 <!--
 **LordDxnte/LordDxnte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
