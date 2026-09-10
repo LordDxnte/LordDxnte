@@ -1,9 +1,9 @@
-<img width="1106" height="963" alt="image" src="https://github.com/user-attachments/assets/94540a04-4daa-4d31-b5d5-5c43167540db" /><div align="center">
+<div align="center">
   <h1>Umais Jafry</h1>
   <p>Python & Automation Developer · Islamabad</p>
   <br>
   <p>Architecting intelligent workflows, scalable backends, and 2D mechanics.</p>
-  <p><a href="[(https://www.linkedin.com/in/umais-jafry-ba81b33a0/)]">LinkedIn</a> · 📍 Islamabad</p>
+  <p><a href="https://www.linkedin.com/in/umais-jafry-ba81b33a0/">LinkedIn</a> · 📍 Islamabad</p>
 </div>
 
 <br>
@@ -30,12 +30,13 @@ When I am not building AI optimization engines, I am designing complex state mac
 
 ### Featured Work
 
-* **[Eclipse of the Order](link-here)** — 2D dark fantasy action roguelite game built from scratch featuring custom combat mechanics, state machines, and sprite architecture.
-* **[Dante's Item Forge](link-here)** — Gaming item optimization engine powered by Python and Groq LPU inference for ultra-fast AI processing and stat calculations.
-* **[Calculus Hub](link-here)** — Streamlined web application deployed to organize, manage, and share complex lecture schedules, study plans, and academic materials.
+* **[Eclipse of the Order](https://github.com/LordDxnte/Eclipse-of-the-Order)** — 2D dark fantasy action roguelite game built from scratch featuring custom combat mechanics, state machines, and sprite architecture.
+* **[Dante's Item Forge](https://github.com/LordDxnte/dantes-item-forge)** — Gaming item optimization engine powered by Python and Groq LPU inference for ultra-fast AI processing and stat calculations.
+* **[Calculus Hub](https://github.com/LordDxnte/calculus-hub)** — Streamlined web application deployed to organize, manage, and share complex lecture schedules, study plans, and academic materials.
 
 
 <br>
+
 
 <!--
 **LordDxnte/LordDxnte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
