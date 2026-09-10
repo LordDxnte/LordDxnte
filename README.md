@@ -34,14 +34,9 @@ When I am not building AI optimization engines, I am designing complex state mac
 * **[Dante's Item Forge](link-here)** — Gaming item optimization engine powered by Python and Groq LPU inference for ultra-fast AI processing and stat calculations.
 * **[Calculus Hub](link-here)** — Streamlined web application deployed to organize, manage, and share complex lecture schedules, study plans, and academic materials.
 
-### Beyond the Code
-⚔️ In-Game Leader for SRT (Valorant) · 🏋️ Strength Training · 🏍️ Gearhead & Custom Hardware Builder
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umaisjafry&bg_color=1A1A1A&color=B00020&line=B00020&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
 <!--
 **LordDxnte/LordDxnte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
