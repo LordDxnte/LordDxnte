@@ -28,15 +28,12 @@
 * **[Dante's Item Forge](link-here)** — gaming item optimization engine powered by Python and Groq LPU inference for ultra-fast AI processing and stat calculations.
 * **[Calculus Hub](link-here)** — streamlined web application deployed to organize, manage, and share complex lecture schedules, study plans, and academic materials.
 
-### Beyond the Code
-
-⚔️ In-Game Leader for SRT (Valorant) · 🏋️ Strength Training & Fitness · ⚙️ Hardware Enthusiast (Custom Xeon X99 Builds) 
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umaisjafry&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umaisjafry&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LordDxnte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LordDxnte&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
 
